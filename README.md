@@ -1,2 +1,0 @@
-# college
-simple college website
